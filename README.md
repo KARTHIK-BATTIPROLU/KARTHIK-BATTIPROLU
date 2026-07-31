@@ -1,10 +1,10 @@
 <!-- ============================================================= -->
-<!--  BANNER  (continuously animated - profile-dark / profile-light) -->
+<!--  BANNER  (animated loop: face -> Flutter -> Copilot -> Meta)   -->
 <!-- ============================================================= -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KARTHIK-BATTIPROLU/KARTHIK-BATTIPROLU/main/profile-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KARTHIK-BATTIPROLU/KARTHIK-BATTIPROLU/main/profile-light.svg">
-  <img alt="Karthik Battiprolu" src="https://raw.githubusercontent.com/KARTHIK-BATTIPROLU/KARTHIK-BATTIPROLU/main/profile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KARTHIK-BATTIPROLU/KARTHIK-BATTIPROLU/main/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KARTHIK-BATTIPROLU/KARTHIK-BATTIPROLU/main/banner-light.svg">
+  <img alt="Karthik Battiprolu" src="https://raw.githubusercontent.com/KARTHIK-BATTIPROLU/KARTHIK-BATTIPROLU/main/banner-light.svg">
 </picture>
 
 <br/><br/>
