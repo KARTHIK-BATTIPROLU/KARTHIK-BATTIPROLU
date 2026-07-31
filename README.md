@@ -10,7 +10,7 @@
 <br/><br/>
 
 <!-- ============================================================= -->
-<!--  SOCIAL BADGES  (Phase 4 - live now)                          -->
+<!--  SOCIAL BADGES  (Phase 4 - live)                              -->
 <!-- ============================================================= -->
 <div align="center">
   <a href="https://www.linkedin.com/in/karthik-battiprolu-3b9694300/">
@@ -24,21 +24,17 @@
 
 <br/>
 
-
 <!-- ============================================================= -->
-<!--  STATS CARDS  -  ADD AFTER PHASE 2                            -->
-<!--  1. Self-host github-readme-stats on Vercel (see Setup Guide) -->
-<!--  2. Replace  YOUR-INSTANCE  below with your *.vercel.app host -->
-<!--  3. Delete the two comment lines wrapping the block           -->
+<!--  STATS CARDS  (Phase 2 - live, self-hosted on Vercel)         -->
 <!-- ============================================================= -->
-<!--
 <div align="center">
   <img width="100%" src="https://streak-stats.demolab.com/?user=KARTHIK-BATTIPROLU&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
   <br/>
-  <img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=KARTHIK-BATTIPROLU&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
-  <img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=KARTHIK-BATTIPROLU&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+  <img width="49%" src="https://github-readme-stats-nine-indol-59.vercel.app/api?username=KARTHIK-BATTIPROLU&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
+  <img width="49%" src="https://github-readme-stats-nine-indol-59.vercel.app/api/top-langs/?username=KARTHIK-BATTIPROLU&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 </div>
--->
+
+<br/>
 
 
 <!-- ============================================================= -->
