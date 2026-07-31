@@ -36,13 +36,9 @@
 
 <br/>
 
-
 <!-- ============================================================= -->
-<!--  CONTRIBUTION SNAKE  -  ADD AFTER PHASE 3                     -->
-<!--  Only uncomment once the Action has run green and the         -->
-<!--  'output' branch exists, or the image will show as broken.    -->
+<!--  CONTRIBUTION SNAKE  (live - Action has run green)            -->
 <!-- ============================================================= -->
-<!--
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KARTHIK-BATTIPROLU/KARTHIK-BATTIPROLU/output/github-snake-dark.svg" />
@@ -50,4 +46,3 @@
     <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/KARTHIK-BATTIPROLU/KARTHIK-BATTIPROLU/output/github-snake.svg" />
   </picture>
 </div>
--->
